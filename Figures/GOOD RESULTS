@@ -1,0 +1,11 @@
+GOOD RESULTS
+
+Figure 2 :  LR=70, HR=0.8, MR=0.2, BS=64, 
+RMSE Performance Train: 0.0265
+RMSE Performance Test: 0.4712
+RMSE Performance Cluster: 0.4908
+
+Voltage4: MR=0.1, HR=0.8, LR=150, BS=256, It = 15000
+RMSE Performance Train: 0.0282
+RMSE Performance Test: 0.5238
+RMSE Performance Cluster: 0.3581
